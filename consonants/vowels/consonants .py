@@ -15,3 +15,4 @@ def cou(s):
     
 a=input("enter a string")
 cou(a)
+
